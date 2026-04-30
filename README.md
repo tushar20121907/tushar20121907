@@ -62,7 +62,6 @@ I'm Tushar, Software Engineer from Bengaluru, Karnataka, India.
 ![pnpm](https://img.shields.io/badge/pnpm-0d1117?style=flat-square&logo=pnpm&logoColor=F69220)
 ![uv](https://img.shields.io/badge/uv-0d1117?style=flat-square&logo=astral&logoColor=DE5FE9)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
-
 <br/>
 
 ## 📬 Find Me
