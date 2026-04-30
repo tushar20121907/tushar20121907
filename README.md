@@ -1,16 +1,44 @@
-## Hi there 👋
+![banner](./banner.svg)
 
-<!--
-**tushar20121907/tushar20121907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+# Hi there! 👋 I'm **YourName**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build things for the web — obsessed with clean code, good tooling, and the occasional rabbit hole.
+
+> *Replace this line with something that sounds like you.*
+
+<br/>
+
+## 🛠 What I Work With
+
+```text
+Languages   →  TypeScript · Python · [Add Yours]
+Frontend    →  React · Next.js · Tailwind CSS
+Backend     →  Node.js · [Your Backend] · PostgreSQL
+DevOps      →  Docker · GitHub Actions · [Cloud of Choice]
+```
+
+<br/>
+
+## 🔭 Currently
+
+- 🏗 &nbsp; Building &nbsp;**[Your Current Project]**
+- 🌱 &nbsp; Learning &nbsp;**[What You're Studying]**
+- 💬 &nbsp; Ask me about &nbsp;**[Your Expertise]**
+- ⚡ &nbsp; Fun fact: &nbsp;**[Something Interesting About You]**
+
+<br/>
+
+## 📬 Find Me
+
+[![Email](https://img.shields.io/badge/-your@email.com-0d1117?style=flat-square&logo=gmail&logoColor=4ade80)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8)](https://linkedin.com/in/yourusername)
+[![Twitter / X](https://img.shields.io/badge/-@yourusername-0d1117?style=flat-square&logo=x&logoColor=f0f6ff)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/-yoursite.com-0d1117?style=flat-square&logo=google-chrome&logoColor=4ade80)](https://yoursite.com)
+
+<br/>
+
+---
+
+*Stay curious. Keep shipping.* 🚀
