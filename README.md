@@ -73,10 +73,8 @@ I'm Tushar, Software Engineer from Bengaluru, Karnataka, India.
 <br/>
 
 ## 📬 Find Me
-[![Email](https://img.shields.io/badge/-your@email.com-0d1117?style=flat-square&logo=gmail&logoColor=4ade80)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8)](https://linkedin.com/in/yourusername)
-[![Twitter / X](https://img.shields.io/badge/-@yourusername-0d1117?style=flat-square&logo=x&logoColor=f0f6ff)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-yoursite.com-0d1117?style=flat-square&logo=google-chrome&logoColor=4ade80)](https://yoursite.com)
+[![Email](https://img.shields.io/badge/-your@email.com-0d1117?style=flat-square&logo=gmail&logoColor=4ade80)](mailto:tushar20121907@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/tushar-7ba005157/)
 <br/>
 
 ---
