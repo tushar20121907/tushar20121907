@@ -2,11 +2,11 @@
 
 <br/>
 
-# Hi there! 👋 I'm **YourName**
+# Hey! Nice to see you.
 
-I build things for the web — obsessed with clean code, good tooling, and the occasional rabbit hole.
+Welcome to my page!
 
-> *Replace this line with something that sounds like you.*
+I'm Tushar, Software Engineer from Bengaluru, Karnataka, India.
 
 <br/>
 
